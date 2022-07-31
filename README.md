@@ -2,7 +2,7 @@
 -  e atitude para tomar a frente em situações fora da zona de conforto. Nas horas vagas estou estudando e buscando conhecimentos na programação.
 - 👀 Eu estou estudando Front-End/ Back-End.
 - 🌱 Graduado em Análise e Desenvolvimento de Sistemas.
-- 💞️ Graduando Pós em Arquitetura de Sofware.
+-
 
 
 <!---
